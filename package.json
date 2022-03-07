@@ -13,7 +13,7 @@
     "pidusage": "2.0.21",
     "blessed-contrib": "4.8.21",
     "chalk": "4.1.0",
-    "listr2": "3.3.1",
+    "listr2": "3.14.0",
     "execa": "5.0.0",
     "listr-multiline-renderer": "1.1.0",
     "listr-verbose-renderer": "0.6.0",
