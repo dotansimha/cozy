@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@oclif/dev-cli": "1.26.0",
-    "typescript": "4.1.5",
+    "typescript": "4.6.2",
     "@types/blessed": "0.1.17",
     "@types/pidusage": "2.0.1"
   },
